@@ -9,5 +9,5 @@ void main() {
 	printf("total:", total);
 	printf("report");
 
-	printf("not same");
+	printf("final version");
 }
